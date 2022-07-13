@@ -1,16 +1,13 @@
-# adiyogi_wallpaper_app
+# Adiyogi HD Wallpapers
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+| Homescreen  | Download Page | About Page  |
+| ------------- | ------------- | ------------- |
+|![Screenshot_1652368264](https://user-images.githubusercontent.com/40023090/178812794-fb69a53a-8ef7-431e-85ab-aea1bb0a1fb8.png)  |  ![Screenshot_1652368410](https://user-images.githubusercontent.com/40023090/178812946-1404d563-6248-46e5-a9bd-87c4203ea41f.png) | ![Screenshot_1652368416](https://user-images.githubusercontent.com/40023090/178812980-184557fa-8081-4704-b523-b2dfb6a78f7c.png) |
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Play Store
+
